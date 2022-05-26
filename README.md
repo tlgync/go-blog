@@ -6,4 +6,7 @@
 - Login, Register, Generate JWT Token, Verify JWT Token 👌🏻
 
 ## Second Step
-- Construction of category field - Basic CRUD
+- Construction of category field - Basic CRUD 👌🏻
+
+## Third Step
+- Construction of posts field - Basic CRUD 👌

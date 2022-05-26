@@ -9,4 +9,4 @@
 - Construction of category field - Basic CRUD 👌🏻
 
 ## Third Step
-- Construction of posts field - Basic CRUD 👌
+- Construction of posts field - Basic CRUD 

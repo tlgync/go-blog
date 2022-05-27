@@ -52,8 +52,7 @@ func (repo repository) Delete(id uint) (*Model, error) {
 }
 
 func (repo repository) GetAll() ([]Model, error) {
-	//newsList := make([]*Model, 0)
-	var results []Model
+	results := make([]Model, 0)
 	err := repo.db.Table("Category").Find(&results).Error
 	if err != nil {
 		return nil, err
